@@ -1,6 +1,6 @@
 {
   "name": "keep-open",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A CLI tool to keep the forwarded ports (e.g. with SSH or Kubernetes) connected",
   "main": "index.js",
   "repository": {
