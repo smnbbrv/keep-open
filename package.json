@@ -1,0 +1,24 @@
+{
+  "name": "keep-open",
+  "version": "1.0.1",
+  "description": "A CLI tool to keep the forwarded ports (e.g. with SSH or Kubernetes) connected",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "asd"
+  },
+  "keywords": [
+    "ports",
+    "open",
+    "ssh",
+    "kubernetes"
+  ],
+  "author": "smnbbrv",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^7.2.0"
+  },
+  "bin": {
+    "keep-open": "./index.js"
+  }
+}
